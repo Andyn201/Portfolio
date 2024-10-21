@@ -11,3 +11,7 @@
 - See [PDF](https://github.com/Andyn201/Sales-Analysis/blob/main/Sales_Analysis_Project.pdf) in repository for analysis
 ![annual sales cover](https://imagedelivery.net/K5TI-EHerRDIgbgGIcCsuw/1f86366f-7272-453f-f620-c3fcd42bd100/public)
 
+## [3. Pharmaceutical Lead Generation](https://github.com/Andyn201/Pharmaceutical-Lead-Generation)
+- Generates chemical compounds
+- Screens compounds to determine potential as a drug using QED score
+![Compounds](https://imagedelivery.net/K5TI-EHerRDIgbgGIcCsuw/d120f204-dd71-4474-b56a-396e7ccb2d00/public)
