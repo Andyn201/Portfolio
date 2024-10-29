@@ -19,5 +19,6 @@
 ## [4. Project 4: Revenue Forecasting With Ensemble Learning](https://github.com/Andyn201/Revenue-Forecasting)
 - Ensemble modeling combining (Facebook) Prophet, SARIMAX, (Linkedin) Silverkite, and RNN/LTSM models to forecast revenue of multiple rental properties
 - Time series analysis to determine most profitable holidays
-![Forecasts](https://imagedelivery.net/K5TI-EHerRDIgbgGIcCsuw/4e21078d-8ae9-4af3-774d-cb000e435500/public)
+![Forecasts](https://imagedelivery.net/K5TI-EHerRDIgbgGIcCsuw/8577b780-dd43-4780-a6f1-0341ad39a800/public)
+
 
