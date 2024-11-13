@@ -33,4 +33,8 @@
 - [See App](https://xcl7djrk2z6zzk6u3hlbyosvwy0idmxz.lambda-url.us-east-2.on.aws/)
 - ![App](https://imagedelivery.net/K5TI-EHerRDIgbgGIcCsuw/2b597f51-55df-4690-bd80-294af9934f00/public)
 
+## [7. Project 7: AI Translator](https://github.com/Andyn201/TransformerTranslate)
+- An AI model that uses NLP and Pytorch to translate English to Spanish
+- Built around the transformer architecture, which was used to build OpenAI's ChatGPT
+- ![Transformer](https://imagedelivery.net/K5TI-EHerRDIgbgGIcCsuw/22889311-52a5-4d5b-e0a3-3b848d4adb00/public)
 
