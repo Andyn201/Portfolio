@@ -27,5 +27,10 @@
 - Time series analysis to determine most profitable holidays
 ![Forecasts](https://imagedelivery.net/K5TI-EHerRDIgbgGIcCsuw/8577b780-dd43-4780-a6f1-0341ad39a800/public)
 
+## [6. Project 6: LLM Chatbot Deployed to AWS](https://github.com/Andyn201/LLMChatbot)
+- A LLM Chatbot wrapped around ChatGPT
+- Deployed on Amazon AWS Lambda
+- [See App](https://xcl7djrk2z6zzk6u3hlbyosvwy0idmxz.lambda-url.us-east-2.on.aws/)
+- ![App](https://imagedelivery.net/K5TI-EHerRDIgbgGIcCsuw/2b597f51-55df-4690-bd80-294af9934f00/public)
 
 
